@@ -1,0 +1,15 @@
+{
+  "name": "crmtgrpeakareafinder",
+  "version": "1.0.0",
+  "description": "This is the implementation of the series of the algorythms that help to calculate the area of the peak under the curve.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "peak",
+    "area"
+  ],
+  "author": "ihor@rudych.com",
+  "license": "MIT"
+}
